@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zayhnie
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning MySQL and Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me zainabchiomaibrahim@gmail.com
 
 <!---
